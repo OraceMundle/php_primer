@@ -42,7 +42,8 @@
         
 <!-- Button -->
 <button type="button" class="btn btn-dark">CLICK ME</button>
-
+<button type="button" class="btn btn-success">CLICK ME</button>
+<button type="button" class="btn btn-secondary">CLICK ME</button>
 
    <!-- PHP TAG linking includes folder with footer file -->
    <?php 
