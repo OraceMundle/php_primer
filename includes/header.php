@@ -16,17 +16,17 @@
     <div class="container">
         <h2>Follow each link to the page example</h2>
 
-        <ul class="nav nav-tabs">
+        <ul class="nav nav-tabs nav-fill ">
 
-            <li class="nav-item"><a class="nav-link" href="index.php">HOME </a></li>
-            <li class="nav-item"><a class="nav-link" href="ifstatement.php">Simple If Statement</a></li>
-            <li class="nav-item"><a class="nav-link" href="switchstatement.php">Simple Switch Statement</a></li>
-            <li class="nav-item"><a class="nav-link" href="forloop.php">Simple For Loop </a></li>
-            <li class="nav-item"><a class="nav-link" href="whiledowhileloop.php">Simple While /Do While Loop </a></li>
-            <li class="nav-item"><a class="nav-link" href="arrays.php">Simple Arrays and PrintOut </a></li>
-            <li class="nav-item"><a class="nav-link" href="stringmanipulation.php">Simple String Manipulation </a></li>
-            <li class="nav-item"><a class="nav-link" href="datetimemanipulation.php">Simple Date and Time Manipulation </a></li>
-            <li class="nav-item"><a class="nav-link" href="functions.php">Simple Functions </a></li>
+            <li class="nav-item"><a class="nav-link active" href="index.php">HOME </a></li>
+            <li class="nav-item"><a class="nav-link active" href="ifstatement.php">Simple If Statement</a></li>
+            <li class="nav-item"><a class="nav-link active" href="switchstatement.php">Simple Switch Statement</a></li>
+            <li class="nav-item"><a class="nav-link active" href="forloop.php">Simple For Loop </a></li>
+            <li class="nav-item"><a class="nav-link active" href="whiledowhileloop.php">Simple While /Do While Loop </a></li>
+            <li class="nav-item"><a class="nav-link active" href="arrays.php">Simple Arrays and PrintOut </a></li>
+            <li class="nav-item"><a class="nav-link active" href="stringmanipulation.php">Simple String Manipulation </a></li>
+            <li class="nav-item"><a class="nav-link active" href="datetimemanipulation.php">Simple Date and Time Manipulation </a></li>
+            <li class="nav-item"><a class="nav-link active" href="functions.php">Simple Functions </a></li>
 
 
 
